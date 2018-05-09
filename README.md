@@ -12,7 +12,7 @@ Los equipos deberán estar conformados por dos personas.
 
 La evaluación se hará de forma individual valorando las aportaciones que cada integrante haya hecho al proyecto.
 
-### 2.2. Medio de entrega y entregables
+### 2.2 Entregables
 
 Se deberá crear un repositorio público en Git Hub por cada equipo donde se puedan apreciar la contribuciones de cada integrante. Este repositorio deberá incluir un README que describa la forma de uso del proyecto:
 
