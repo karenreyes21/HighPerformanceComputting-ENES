@@ -73,7 +73,7 @@ Se deberá realizar una presentación del proyecto el día 22 de mayo 2018 a la 
 #### Los requerimientos, dependencias e instrucciones de instalación se podrán encontrar en: 
     https://github.com/ulises1229/Optimization-2018/blob/master/Instalacion.md
 
-## 3.3 Paralelización de algoritmos de distancia de k-meros 
+## 3.3 Paralelización de algoritmos de distancia de k-meros y distancia genética.
 
 ### Área de aplicación: Bioinformática
 ![GIS](http://baranzinilab.ucsf.edu/sites/baranzinilab.ucsf.edu/files/wysiwyg/genetics_final.png)
