@@ -40,10 +40,17 @@ Se deberá realizar una presentación del proyecto el día 22 de mayo 2018 a la 
 
 ## 3. Proyectos
 
-### 3.1 Paralelización de transformaciones y pruebas de intersección para Ray tracing
+### 3.1 Paralelización de transformaciones y pruebas de intersección para Ray tracing (Área de aplicación: Gráficos por computadora)
 
 Se deberán paralelizar las siguientes transformaciones en un ray tracer:
-** Traslación
-** Escalación
-** 
+* Traslación
+* Escalación
+* Rotación
+
+De la misma se deberán paralelizar las pruebas de intersección entre un rayo y la geometría poligonal
+
+### 3.2 Paralelización de algoritmos de optimización para la localización espacial de plantas de producción de energía eléctrica (Área de aplicación: Sistemas de información geográfica)
+
+### 3.3 Paralelización de algoritmos de distacia de k-meros (Área de aplicación: Bioinformática)
+
 
