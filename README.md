@@ -1,4 +1,4 @@
-# Proyectos UNIDADII - Cómputo paralelo utilizando OpenMP
+# Proyectos UNIDADII - Cómputo paralelo utilizando OpenMP o CUDA
 
 ## 1. Lenguajes de programación
 
