@@ -43,23 +43,41 @@ Se deberá realizar una presentación del proyecto el día 22 de mayo 2018 a la 
 
 ### 3.1 Paralelización de transformaciones y pruebas de intersección para Ray tracing (Área de aplicación: Gráficos por computadora)
 
-#### 3.1.1 Se deberán paralelizar las siguientes transformaciones en un ray tracer:
-* Traslación
-* Escalación
-* Rotación
+### **Actividades**
+    
+    #### Descargar, compilar y hacer pruebas con alguno de los siguientes ray tracers (solo elegir 1):
+        * Simple Raytracer: https://github.com/cem/simple-raytracer
+        * Minimal Raytracer: https://github.com/mzucker/miniray
+        * Ray tracing https://github.com/bnaveenkr/raytracer
 
-#### 3.1.2 De la misma se deberán paralelizar las pruebas de intersección entre rayos y la geometría poligonal para producir una frame de salida.
+    #### 3.1.1 Se deberán paralelizar las siguientes transformaciones en un ray tracer:
+      * Traslación
+      * Escalación
+      * Rotación
 
-### 3.2 Paralelización de algoritmos de optimización para la localización espacial de plantas de producción de energía eléctrica (Área de aplicación: Sistemas de información geográfica)
+    #### 3.1.2 De la misma se deberán paralelizar las pruebas de intersección entre rayos y la geometría poligonal para producir una frame de salida.
 
-3.2.1 Se deberá programar y paralelizar la función de costo-distancia descrita en: https://desktop.arcgis.com/es/arcmap/10.3/tools/spatial-analyst-toolbox/how-the-cost-distance-tools-work.htm
+    ### 3.2 Paralelización de algoritmos de optimización para la localización espacial de plantas de producción de energía eléctrica (Área de aplicación: Sistemas de información geográfica)
 
-3.2.2 Se deberá paralelizar la exploración del algoritmo de optimización cuyo código fuente se encuentra en: 
-https://github.com/ulises1229/Optimization-2018/tree/master/src
+### **Actividades**
+    3.2.1 Se deberá programar y paralelizar la función de costo-distancia descrita en: https://desktop.arcgis.com/es/arcmap/10.3/tools/spatial-analyst-toolbox/how-the-cost-distance-tools-work.htm
 
-Los requerimientos, dependencias e instrucciones de instalación se podrán encontrar en: 
-https://github.com/ulises1229/Optimization-2018/blob/master/Instalacion.md
+    3.2.2 Se deberá paralelizar la exploración del algoritmo de optimización cuyo código fuente se encuentra en: 
+    https://github.com/ulises1229/Optimization-2018/tree/master/src
+
+    Los requerimientos, dependencias e instrucciones de instalación se podrán encontrar en: 
+    https://github.com/ulises1229/Optimization-2018/blob/master/Instalacion.md
 
 ### 3.3 Paralelización de algoritmos de distacia de k-meros (Área de aplicación: Bioinformática)
+### **Actividades**
+
+      3.3.1 Se deberá consultar el siguiente artículo científico
+      https://ieeexplore.ieee.org/document/7050241/
+      
+      3.3.1 Se deberá programar una implementación serial y una paralela del algoritmo de distancia de k-meros descrito en la sección         **2.1.1** del artículo. Como resultado se deberá obtener la matriz de disstancia de k-meros.
+      
+      3.3.2 Se deberá programar una implementación serial y una paralela del algoritmos para evaluar la distancia genética.
+      
+      
 
 
