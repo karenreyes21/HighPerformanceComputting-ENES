@@ -41,7 +41,7 @@ Se deberá realizar una presentación del proyecto el día 22 de mayo 2018 a la 
 
 ## 3. Proyectos Disponibles
 
-### 3.1 Paralelización de transformaciones y pruebas de intersección para Ray tracing 
+## 3.1 Paralelización de transformaciones y pruebas de intersección para Ray tracing 
 ### Área de aplicación: Gráficos por computadora (Ray tracing)
 ![alt text](https://i.pinimg.com/736x/d9/e4/49/d9e44950d7ebc6ef04cc9f48e3d437f4--motion-blur-scary.jpg "Ray tracing")
 
@@ -59,7 +59,7 @@ Se deberá realizar una presentación del proyecto el día 22 de mayo 2018 a la 
 
 #### 3.1.3 De la misma se deberán paralelizar las pruebas de intersección entre rayos y la geometría poligonal para producir una imagen de salida.
 
-### 3.2 Paralelización de algoritmos de optimización para la localización espacial de plantas de producción de energía eléctrica 
+## 3.2 Paralelización de algoritmos de optimización para la localización espacial de plantas de producción de energía eléctrica 
 ### Área de aplicación: Sistemas de información geográfica
 ![GIS](http://adevaherranz.es/GEOGRAFIA/GEOGRAFIA%20UNIVERSAL%20Paises/Eurasia/Rusia/Geo%20Cartografia%20Rio%20Lena%20Delta%20Rusia-Siberia%20Satelite%20NASA_small.gif "Ray tracing")
 
@@ -73,7 +73,7 @@ Se deberá realizar una presentación del proyecto el día 22 de mayo 2018 a la 
 #### Los requerimientos, dependencias e instrucciones de instalación se podrán encontrar en: 
     https://github.com/ulises1229/Optimization-2018/blob/master/Instalacion.md
 
-### 3.3 Paralelización de algoritmos de distancia de k-meros 
+## 3.3 Paralelización de algoritmos de distancia de k-meros 
 
 ### Área de aplicación: Bioinformática
 ![GIS](http://baranzinilab.ucsf.edu/sites/baranzinilab.ucsf.edu/files/wysiwyg/genetics_final.png)
