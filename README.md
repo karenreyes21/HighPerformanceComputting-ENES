@@ -36,20 +36,29 @@ Este reporte en PDF deberá contener:
 
 Todos los proyectos deberán entregarse el día 21 de mayo del 2018 hasta las 11:59 pm. Los commits posteriores a esa fecha serán penalizados.
 
-Se deberá realizar una presentación del proyecto el día 22 de mayo 2018 a la hora de clase, en está presentación se deberá replicar el proceso de compilación y se deberá mostrar un demo funcional
+Se deberá realizar una presentación del proyecto el día 22 de mayo 2018 a la hora de clase, en está presentación se deberá replicar el proceso de compilación y se deberá mostrar un demo funcional. Adicionalmente, se deberán describir de forma detallada las actividades realizadas en cada proyecto.
 
-## 3. Proyectos
+
+## 3. Proyectos Disponibles
 
 ### 3.1 Paralelización de transformaciones y pruebas de intersección para Ray tracing (Área de aplicación: Gráficos por computadora)
 
-Se deberán paralelizar las siguientes transformaciones en un ray tracer:
+#### 3.1.1 Se deberán paralelizar las siguientes transformaciones en un ray tracer:
 * Traslación
 * Escalación
 * Rotación
 
-De la misma se deberán paralelizar las pruebas de intersección entre un rayo y la geometría poligonal
+#### 3.1.2 De la misma se deberán paralelizar las pruebas de intersección entre rayos y la geometría poligonal para producir una frame de salida.
 
 ### 3.2 Paralelización de algoritmos de optimización para la localización espacial de plantas de producción de energía eléctrica (Área de aplicación: Sistemas de información geográfica)
+
+3.2.1 Se deberá programar y paralelizar la función de costo-distancia descrita en: https://desktop.arcgis.com/es/arcmap/10.3/tools/spatial-analyst-toolbox/how-the-cost-distance-tools-work.htm
+
+3.2.2 Se deberá paralelizar la exploración del algoritmo de optimización cuyo código fuente se encuentra en: 
+https://github.com/ulises1229/Optimization-2018/tree/master/src
+
+Los requerimientos, dependencias e instrucciones de instalación se podrán encontrar en: 
+https://github.com/ulises1229/Optimization-2018/blob/master/Instalacion.md
 
 ### 3.3 Paralelización de algoritmos de distacia de k-meros (Área de aplicación: Bioinformática)
 
